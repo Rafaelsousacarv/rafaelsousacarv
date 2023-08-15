@@ -1,7 +1,7 @@
 ### Olá! Eu sou Rafael Sousa ✌️ <img align="right" src="https://visitor-badge.feriirawann.repl.co/?username=rafaelsousacarv&repo=lairacastro&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=141321&contentType=svg" alt="Contador de Visitas do Perfil no Github da Rafael" height="40px"/><br><br>
   <ul>
     <li>🤩️ Apaixonado por Programação, Design e Jogos.</li>
-    <li>🔄  Migrando da área da Suporte Infra para a área Tech.</li>
+    <li>🔄  Migrando da área da Suporte Infra para a área Programação.</li>
     <li>💻 Estudei <b>Sistemas da Informação</b> na Estacio e também me especializando através de estudos na <a href="https://cubos.academy" target="_blank">Cubos Academy<a/>, <a href="https://www.dio.me" target="_blank">DIO<a/> e na <a href="https://www.udemy.com/" target="_blank">Udemy</a>.</li>
     <li>🎨 Com mais de 6 anos de <b>experiência em Suporte</b>, tenho autonomia em diversas das tecnologias de suporte mais relevantes do mercado.</li>
     <li>💡 Embora eu tenha um amor pelo desenvolvimento back-end, também estou adquirindo habilidades em front-end, o que me permitirá criar soluções completas e integradas para meus projetos.</li>
