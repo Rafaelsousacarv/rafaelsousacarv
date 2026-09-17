@@ -1,4 +1,4 @@
-### Olá! Eu sou Rafael Sousa ✌️ <img align="right" src="https://visitor-badge.feriirawann.repl.co/?username=rafaelsousacarv&repo=lairacastro&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=141321&contentType=svg" alt="Contador de Visitas do Perfil no Github da Rafael" height="40px"/><br><br>
+### Olá! Eu sou Rafael Sousa ✌️ 
   <ul>
     <li>🤩️ Apaixonado por Programação, Design e Jogos.</li>
     <li>🔄  Migrando da área da Suporte Infra para a área Programação.</li>
