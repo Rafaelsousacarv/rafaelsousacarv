@@ -3,7 +3,7 @@
     <li>🤩️ Apaixonado por Programação, Design e Jogos.</li>
     <li>🔄  Migrando da área da Suporte Infra para a área Programação.</li>
     <li>💻 Estudei <b>Sistemas da Informação</b> na Estacio e também me especializando através de estudos na <a href="https://cubos.academy" target="_blank">Cubos Academy<a/>, <a href="https://www.dio.me" target="_blank">DIO<a/> e na <a href="https://www.udemy.com/" target="_blank">Udemy</a>.</li>
-    <li>🎨 Com mais de 9 anos de <b>experiência em Suporte</b>, tenho autonomia em diversas das tecnologias de suporte mais relevantes do mercado.</li>
+    <li>🎨 Com mais de 9 anos de trajetória em tecnologia, iniciei minha carreira em infraestrutura e suporte técnico, o que me proporcionou uma visão ampla sobre sistemas e usabilidade. Nos últimos anos, mergulhei na programação com foco em Back-end (Java, JavaScript, Node.js, Spring Boot), e automação de processos em Python e VBA especialmente voltado para Excel e extração de dados de sistemas.</li>
     <li>💡 Embora eu tenha um amor pelo desenvolvimento back-end, também estou adquirindo habilidades em front-end, o que me permitirá criar soluções completas e integradas para meus projetos.</li>
     <li>🚀 <b>Evolução é meu lema</b>.</li>
     <li>🌎 Tenho <b>Inglês</b> básico e <b>Espanhol</b> basico.</li>
@@ -32,9 +32,7 @@
 </div>
 <hr/>
 
-<div><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelsousacarv&show_icons=true&count_private=true&hide_border=true&title_color=fe428e&icon_color=f8d847&text_color=9feee9&bg_color=141321" alt= "Laira Castro github stats" />
-<img align=right width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsousacarv&layout=compact&hide_border=true&title_color=fe428e&text_color=9feee9&bg_color=141321" />
-</div>
+
 
 
 ## Skills em desenvolvimento:
@@ -51,7 +49,4 @@
 <img align: center alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
 </div>
 <hr/>
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelsousacarv&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Gráfico%20de%20Contribuição" />
-
 
